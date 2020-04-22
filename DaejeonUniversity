@@ -10,7 +10,7 @@
 " border=0 usemap="#area">
 <map name="area">
    <area alt='30주년기념관' shape="rect" target="_blank" coords='27,216,46,237' href="1.html">
-    <area alt='지산도서관' shape="rect" target="_blank" coords='144,199,160,219' href="2.html">  
+    <area alt='지산도서관' coords='144,199,160,219' href="2.html">  
     <area alt='일신정' coords='154,264,173,284' href="3.html"> 
     <area alt='창학관' coords='245,246,265,266' href="4.html"> 
     <area alt='학생회관' coords='195,225,215,246' href="5.html"> 
