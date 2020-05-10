@@ -15,9 +15,8 @@ JSP form
   <h2>
   대중교통로</h2><br/>
   <h2>
-  <%= request.getParameter("fromx")%>에서 <%= request.getParameter("tox")%>까지
+  <%= request.getParameter("fromx")%>에서 <%= request.getParameter("tox")%>까지<br/>
   </h2>
-  <h2> 2시간 걸립니다.</h2>
 </section>
 </section>
 </body></html>
