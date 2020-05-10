@@ -15,8 +15,9 @@ JSP form
   <h2>
   자전거로</h2><br/>
   <h2>
-  <%= request.getParameter("fromx")%>에서 <%= request.getParameter("tox")%>까지 1박2일걸립니다.<br/>
+  <%= request.getParameter("fromx")%>에서 <%= request.getParameter("tox")%>까지
   </h2>
+  <h2> 1박2일걸립니다.</h2>
 </section>
 </section>
 </body></html>
